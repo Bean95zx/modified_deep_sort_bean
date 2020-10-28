@@ -1,0 +1,3 @@
+python demo.py
+
+convert.py模型转换   python convert.py yolov3-bdd100k.cfg yolov3-bdd100k_last.weights model_data/yolo-bdd100k.h5
